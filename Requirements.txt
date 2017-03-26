@@ -1,0 +1,11 @@
+#contains requirements needed for pip to run this project
+pip modules:
+django-non rel : install via git , python setup.py install
+'djangotoolbox'
+'django_mongodb_engine'
+'django_extensions'
+
+Software modules:
+Mongo db
+Mongo Vue (Mongo viewer software)
+ipython
